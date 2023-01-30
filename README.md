@@ -1,6 +1,8 @@
 # ReactJS use SWR & Prisma - Client Side
 contoh sederhana penggunaan ReactJS, SWR, Tailwind CSS pada bagian frontend. SWR digunakan untuk fecth data secara real time.
 
+![alt text](prisma-swr.png "Capture")
+
 - Buka Terminal pada lokasi folder project client side 
 - Ketikkan `npm install`
 - Buka file .env dan edit konfigurasi endpoint server ]
